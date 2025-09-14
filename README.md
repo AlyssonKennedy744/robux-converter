@@ -13,7 +13,7 @@ Extensão para Google Chrome que permite converter **Robux em Reais e Dólares**
 
 ## Tela Principal
 <div align="center">
-<img width="471" height="306" alt="image" src="/public/extension-tab.png" />
+  <img src="/public/extension-tab.png" alt="Tela da Extensão" style="max-width:100%; height:auto;" />
 </div>
 
 ## Instalação (Modo Desenvolvedor)
